@@ -1,4 +1,4 @@
-<center><a href="" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/muhammadalihassan-dev" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
+<center><a href="https://x.com/malihassandev" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/muhammadalihassan-dev" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 
 # Hi, I'm Muhammad ALi Hassan! 👋
 
@@ -36,7 +36,7 @@ I'm a passionate self-taught programmer driven by curiosity and a relentless pur
 ## 📬 Get in Touch
 
 <p align="left">  
-<a href="" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://x.com/malihassandev" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
 <a href="https://www.linkedin.com/in/muhammadalihassan-dev" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
