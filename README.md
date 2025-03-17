@@ -17,7 +17,7 @@ I'm a passionate self-taught programmer driven by curiosity and a relentless pur
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,nodejs,express,mongodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,nestjs,nodejs,express,mongodb,mysql,docker&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
